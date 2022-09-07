@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HarpeBlue/Todo-List-react/static/css/main.f4351112.css",
-    "main.js": "/HarpeBlue/Todo-List-react/static/js/main.18a21231.js",
-    "index.html": "/HarpeBlue/Todo-List-react/index.html",
-    "main.f4351112.css.map": "/HarpeBlue/Todo-List-react/static/css/main.f4351112.css.map",
-    "main.18a21231.js.map": "/HarpeBlue/Todo-List-react/static/js/main.18a21231.js.map"
+    "main.css": "/Todo-List-react/static/css/main.f4351112.css",
+    "main.js": "/Todo-List-react/static/js/main.18a21231.js",
+    "index.html": "/Todo-List-react/index.html",
+    "main.f4351112.css.map": "/Todo-List-react/static/css/main.f4351112.css.map",
+    "main.18a21231.js.map": "/Todo-List-react/static/js/main.18a21231.js.map"
   },
   "entrypoints": [
     "static/css/main.f4351112.css",
