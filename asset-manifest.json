@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HarpeBlue/Todo-List-react/static/css/main.f4351112.css",
+    "main.js": "/HarpeBlue/Todo-List-react/static/js/main.18a21231.js",
+    "index.html": "/HarpeBlue/Todo-List-react/index.html",
+    "main.f4351112.css.map": "/HarpeBlue/Todo-List-react/static/css/main.f4351112.css.map",
+    "main.18a21231.js.map": "/HarpeBlue/Todo-List-react/static/js/main.18a21231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4351112.css",
+    "static/js/main.18a21231.js"
+  ]
+}
