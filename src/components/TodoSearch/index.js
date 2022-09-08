@@ -1,7 +1,7 @@
 import React from "react";
 import "./TodoSearch.css";
 
-const TodoSearch = ({ searchValue, setSearchValue }) => {
+const TodoSearch = ({ searchValue, setSearchValue, loading }) => {
   const onSearchValueChange = (event) => {
     setSearchValue(event.target.value);
   };
@@ -12,6 +12,7 @@ const TodoSearch = ({ searchValue, setSearchValue }) => {
       placeholder="Cebolla"
       value={searchValue}
       onChange={onSearchValueChange}
+      disabled={loading}
     />
   );
 };
