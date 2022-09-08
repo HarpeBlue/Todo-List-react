@@ -22,7 +22,7 @@ const TodoList = ({
       {!!totalTodos &&
         !searchedTodos.length &&
         onEmptySearchResults(searchValue)}
-      <ul>{searchedTodos.map(render || children)}</ul>
+      <ul>{!loading && !error && searchedTodos.map(render || children)}</ul>
     </section>
   );
 };
